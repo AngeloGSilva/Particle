@@ -14,6 +14,7 @@ public class main {
         int screenH = 800;
         int targetFps = 60;
 
+        //muito mais que isto e pode nao funcionar
         int particleCount = 500;
         ArrayList<Particle> particles = new ArrayList<Particle>();
 
